@@ -1,0 +1,7 @@
+This directory contains my own implementation of examples/problems from Maurice J Bach's
+"The Design of Unix Operating System".
+
+Index (Chronological order)
+=====
+1. copy.c: Figure 1.3 Copy a file
+
